@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gcushen/hugo-academic.git"
+    "url": "git+https://github.com/joaopaixao/hugo-academic.git"
   },
   "author": "George Cushen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gcushen/hugo-academic/issues"
+    "url": "https://github.com/joaopaixao/hugo-academic/issues"
   },
-  "homepage": "https://github.com/gcushen/hugo-academic#readme"
+  "homepage": "https://github.com/joaopaixao/hugo-academic#readme"
 }
